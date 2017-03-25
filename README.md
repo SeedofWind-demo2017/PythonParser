@@ -1,4 +1,4 @@
-#### Description
+## Description
 
 This is a StackOverFlow  post asking about how to parse a document and display the outline
 ```
@@ -27,7 +27,7 @@ i. The Finch
 i. Wetlands
 ```
 
-#### Approach
+## Approach
 
 1. Use
    Node -> Document(node)| -> Heading(node) |-> Pargraph(node)
@@ -37,14 +37,13 @@ i. Wetlands
    Parser Engine to parse the document
    See classes for detailed explanation
 
-#### Assumptions
+## Assumptions
 1. a document can be correctly parsed without outline
    document ->paragraph | ->paragraph
 
 2. Heading node must advance at most 1 level at a time
 3. One document can have multiple header 1
 
-#### TestCases
+## TestCases
 
 test cases are demonstrated in the main driver
-
