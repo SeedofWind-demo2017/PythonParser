@@ -1,11 +1,6 @@
 #### Description
 
-This is a StackOverFlow  post asking about how to parse a document
-
-Original question
-_______________________
-Document management system, input documents are structured with weighted headings.
-
+This is a StackOverFlow  post asking about how to parse a document and display the outline
 ```
 Sample Input
 +++++++++++++++++++++++
